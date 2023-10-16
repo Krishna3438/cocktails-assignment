@@ -1,0 +1,23 @@
+.ingredients-details-div{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    border: 2px solid #FFF4BC;
+    border-radius: 10px;
+    width: 600px;
+    margin-left: 30vw;
+}
+
+.img-card{
+    height: 50vh;
+    border-inline-end: 2px solid grey;
+}
+
+.ingredient{
+    margin-left: 20px;
+}
+
+.title{
+    text-align: center;
+}

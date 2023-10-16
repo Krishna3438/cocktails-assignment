@@ -1,0 +1,35 @@
+.cocktail-details-div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.details-card {
+    width: 300px;
+    border: 2px solid #FFF4BC;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.img-card{
+    height: 300px;
+    width: 300px;
+    border-bottom: 2px solid gray;
+}
+
+.cocktail-details{
+    text-align: center;
+    padding-block: 20px;
+}
+
+.no-details{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    font-size: 50px;
+}
+
+.title{
+    margin-block: 20px;
+}
