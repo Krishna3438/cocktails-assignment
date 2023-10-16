@@ -30,6 +30,10 @@
     font-size: 50px;
 }
 
-.title{
+.select-dropdown{
+    margin-left: 10px;
+}
+
+.label{
     margin-block: 20px;
 }
