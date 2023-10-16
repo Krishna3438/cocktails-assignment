@@ -8,7 +8,7 @@ function App() {
   return (
     <Router history='browserHistory'>
       <Routes>
-        <Route path='/home' Component={Home}/>
+        <Route path='/' Component={Home}/>
         <Route path='/cocktail' Component={Cocktail}/>
         <Route path='/ingredients' Component={Ingredients}/>
       </Routes>
